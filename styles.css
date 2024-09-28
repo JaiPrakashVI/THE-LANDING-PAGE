@@ -137,7 +137,9 @@ h1.by{
 
 }
 div.but{
-    background-color: rgb(29, 12, 27)
+    background-color: rgb(29, 12, 27);
+    display: flex;
+    justify-content: space-around;
 }
 button{
     color: rgb(243, 238, 238);
@@ -145,11 +147,19 @@ button{
     width: 200px;
     background-color: rgb(173, 170, 170);
     font-size: large;
-    margin-left: 870px;
+    text-align: center;
     margin-top: 50px;
     margin-bottom: 50px;
     border-radius: 10px;
+    justify-content: center;
 }
+.nulls{
+    border: 0;
+    padding: 0;
+    color:  rgb(29, 12, 27);
+    background-color:  rgb(29, 12, 27);
+}
+
 div.last{
     color: aliceblue;
     background-color: black;
