@@ -69,9 +69,9 @@ button.left:hover{
 
 img.sun{
     height: 500px;
-    margin-left: 200px;
+    margin-left: 150px;
     border-radius: 40px;
-    margin-right: 400px;
+    margin-right: 300px;
     margin-top: 250px;
     margin-bottom: 150px;
     box-shadow: 2px 2px 16px white;
@@ -82,8 +82,8 @@ h1.fact{
     text-shadow: 2px 2px 8px white;
     font-size: 30px;
     text-align: top;
-  margin-right: 100px;
-  margin-left: 350px;
+  margin-right: 50px;
+  margin-left: 250px;
    padding-bottom: 100px;
    margin-top: 300px;
    flex-wrap: 650px;
@@ -101,7 +101,7 @@ div.gallery{
 }
 img.gal{
     margin: 40px;
-    flex-basis: 25%;
+    flex-basis: 20%;
     padding-left: 80px;
     padding-right: 80px;
     flex-grow: 3;
@@ -141,7 +141,7 @@ div.but{
     display: flex;
     justify-content: space-around;
 }
-button{
+button.og{
     color: rgb(243, 238, 238);
     height: 80px;
     width: 200px;
